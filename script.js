@@ -5,7 +5,7 @@ const produtos = [
     { nome: "caneca conica c/ colher - 325ml", preco: "R$ 49,90", imagem: "IMG/PRODUCT 4.png" },
     { nome: "camiseta branca 100% Poliéster", preco: "R$ 37,90", imagem: "IMG/PRODUCT 5.png" },
     { nome: "Caneca c/ alça de coração - 325ml", preco: "R$ 44,90", imagem: "IMG/PRODUCT 6.png"},
- { nome: "Mochila  Sport - 35x 40cm ", preco: "R$ 29,90", imagem: "IMG/PRODUCT 7.png" },
+    { nome: "Mochila  Sport - 35x 40cm ", preco: "R$ 29,90", imagem: "IMG/PRODUCT 7.png" },
     { nome: "Mousepad c/ apoio retangular 23,5x18cm", preco: "R$ 24,90", imagem: "IMG/PRODUCT 8.png" },
     { nome: "Azuleijo 20x20cm - Sem suporte", preco: "R$ 24,90", imagem: "IMG/PRODUCT 9.png" },
     { nome: "mousepad c/ apoio gota 24x19cm", preco: "R$ 24,90", imagem: "IMG/PRODUCT 10.png" },
